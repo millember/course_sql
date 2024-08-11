@@ -11,3 +11,5 @@ host=localhost
 user=имя пользователя
 password=твой пароль
 port=5432
+Также нужно уставновить зависимости:
+Установите зависимости с помощью команды python -m pip install -r requirements.txt (или pip install -r requirements.txt).
